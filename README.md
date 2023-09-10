@@ -1,5 +1,5 @@
 <h1 align="center">Mirzomurodov Buzurgmehr</h1>
-<h2 align="center">Dart & Kotlin developer</h2>
+<h2 align="center">Dart/Kotlin</h2>
 
 <img align="right" alt="Almaty" width="400" height="400" src="https://github.com/buzurg2003/buzurg2003/blob/main/GitHub.svg" />
 
