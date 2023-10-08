@@ -8,7 +8,6 @@
   <p align="left">💻 Dart </p>
   <p align="left">🌏 From 🇹🇯 </p>
   <p align="left">📍 Currently in 🇰🇿 </p>
-  <p align="left">🏛 Student at Turan University</p>
   <p align="left">❤ Love Japanse Culture</p>
 </p>
 
