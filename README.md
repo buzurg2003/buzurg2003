@@ -8,7 +8,7 @@
   <p align="left">💻 Dart </p>
   <p align="left">🌏 From 🇹🇯 </p>
   <p align="left">📍 Currently in 🇰🇿 </p>
-  <p align="left">❤ Love Japanse Culture</p>
+  <p align="left">❤ Love Japanese Culture</p>
 </p>
 
 
