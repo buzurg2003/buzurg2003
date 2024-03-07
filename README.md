@@ -5,7 +5,7 @@
 
 <p align="left">
   <h3 align="left">About me: </h3>
-  <p align="left">💻 Dart/JS </p>
+  <p align="left">💻 Dart </p>
   <p align="left">🌏 From 🇹🇯 </p>
   <p align="left">📍 Currently in 🇰🇿 </p>
 </p>
