@@ -25,7 +25,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/firebase.svg" alt="firebase" width="40" height="40"/> 
   </a> 
-  <a href="https:www.kotlinlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/kotlin-1-logo-png-transparent.png" alt="kotlin" width="35" height="37"/> 
   </a>
   <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
