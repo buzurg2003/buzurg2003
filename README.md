@@ -1,11 +1,11 @@
 <h1 align="center">Mirzomurodov Buzurgmehr</h1>
-<h2 align="center">Dart/Kotlin developer</h2>
+<h2 align="center">Dart developer</h2>
 
 <img align="right" alt="Almaty" width="400" height="400" src="https://github.com/buzurg2003/buzurg2003/blob/main/GitHub.svg" />
 
 <p align="left">
   <h3 align="left">About me: </h3>
-  <p align="left">💻 Dart/Kotlin </p>
+  <p align="left">💻 Dart </p>
   <p align="left">🌏 From 🇹🇯 </p>
   <p align="left">📍 Currently in 🇰🇿 </p>
 </p>
@@ -25,12 +25,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/firebase.svg" alt="firebase" width="40" height="40"/> 
   </a> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/buzurg2003/buzurg2003/blob/main/kotlin-1-logo-png-transparent.png" alt="kotlin" width="35" height="37"/> 
-  </a>
-  <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
-    <img src="https://github.com/buzurg2003/buzurg2003/blob/main/JetpackCompose.png" alt="compose" width="40" height="40"/> 
-  </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/android.svg" alt="android" width="40" height="50"/> 
   </a>
