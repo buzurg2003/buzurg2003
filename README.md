@@ -1,11 +1,12 @@
 <h1 align="center">Mirzomurodov Buzurgmehr</h1>
-<h2 align="center">Dart developer</h2>
+<h2 align="center">Mobile developer</h2>
+<h3 align="center"><a href="https://programmer2003.netlify.app/">https://programmer_2003.app</a></h3>
 
-<img align="right" alt="Almaty" width="400" height="400" src="https://github.com/buzurg2003/buzurg2003/blob/main/GitHub.svg" />
+<img align="right" alt="logo" width="400" height="400" src="https://github.com/buzurg2003/buzurg2003/blob/main/GitHub.svg" />
 
 <p align="left">
   <h3 align="left">About me: </h3>
-  <p align="left"> 💻 Dart</p>
+  <p align="left"> 💻 Dart/Kotlin</p>
 </p>
 
 
