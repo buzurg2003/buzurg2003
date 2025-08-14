@@ -2,7 +2,7 @@
 <h2 align="center">Mobile developer</h2>
 <h3 align="center"><a href="https://programmer2003.netlify.app/">https://programmer_2003.app</a></h3>
 
-<img align="right" alt="logo" width="400" height="400" src="https://github.com/buzurg2003/buzurg2003/blob/main/GitHub.svg" />
+<img align="right" alt="logo" width="300" height="300" src="https://github.com/buzurg2003/buzurg2003/blob/main/logo.png" />
 
 <p align="left">
   <h3 align="left">About me: </h3>
