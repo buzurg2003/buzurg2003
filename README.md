@@ -1,6 +1,6 @@
 <h1 align="center">Mirzomurodov Buzurgmehr</h1>
 <h2 align="center">Mobile developer</h2>
-<h3 align="center"><a href="https://programmer2003.netlify.app/">https://programmer_2003.app</a></h3>
+<h3 align="center"><a href="https://programmer2003.netlify.app/" target="_blank">https://programmer_2003.app</a></h3>
 
 <img align="right" alt="logo" width="300" height="300" src="https://github.com/buzurg2003/buzurg2003/blob/main/logo.png" />
 
@@ -26,6 +26,12 @@
   </a> 
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/android.svg" alt="android" width="40" height="50"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/buzurg2003/buzurg2003/blob/main/kotlin-1-logo-png-transparent.png" alt="kotlin" width="40" height="50"/> 
+  </a>
+  <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
+    <img src="https://github.com/buzurg2003/buzurg2003/blob/main/JetpackCompose.png" alt="jetpack compose" width="40" height="50"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/git.svg" alt="git" width="40" height="40"/> 
