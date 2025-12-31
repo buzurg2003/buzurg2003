@@ -40,6 +40,9 @@
 
 <h3 align="left">Social Networks:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/buzurgmehr-mirzomurodov-45442a2b7/" target="blank">
+    <img src="https://github.com/buzurg2003/buzurg2003/blob/main/linked_in.png" alt="LinkedIn" height="40" width="40" />
+  </a>
   <a href="https://www.instagram.com/programmer_2003/" target="blank">
     <img src="https://github.com/buzurg2003/buzurg2003/blob/main/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
